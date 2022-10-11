@@ -1,4 +1,4 @@
-package edu.utah.kmm.dmd.opencds.config;
+package edu.utah.kmm.opencds.config;
 
 import org.apache.commons.lang3.StringUtils;
 import org.opencds.config.api.dao.util.ResourceUtil;

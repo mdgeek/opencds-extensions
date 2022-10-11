@@ -1,4 +1,4 @@
-package edu.utah.kmm.dmd.opencds.security;
+package edu.utah.kmm.opencds.security;
 
 import org.opencds.config.api.xml.JAXBContextService;
 import org.opencds.config.service.security.UserDetailsServiceImpl;

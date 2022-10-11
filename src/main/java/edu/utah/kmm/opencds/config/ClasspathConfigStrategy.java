@@ -1,4 +1,4 @@
-package edu.utah.kmm.dmd.opencds.config;
+package edu.utah.kmm.opencds.config;
 
 import org.opencds.config.api.ConfigData;
 import org.opencds.config.api.KnowledgeRepository;
